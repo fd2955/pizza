@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90553\\Desktop\\G\u00F6rsel Programlama\\pizza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44590C6D-2F37-425C-B6AC-1BE5FACE6186}|pizza\\pizza.csproj|c:\\users\\90553\\desktop\\g\u00F6rsel programlama\\pizza\\pizza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44590C6D-2F37-425C-B6AC-1BE5FACE6186}|pizza\\pizza.csproj|solutionrelative:pizza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44590C6D-2F37-425C-B6AC-1BE5FACE6186}|pizza\\pizza.csproj|c:\\users\\90553\\desktop\\g\u00F6rsel programlama\\pizza\\pizza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44590C6D-2F37-425C-B6AC-1BE5FACE6186}|pizza\\pizza.csproj|solutionrelative:pizza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\90553\\Desktop\\G\u00F6rsel Programlama\\pizza\\pizza\\Form1.cs",
+              "RelativeDocumentMoniker": "pizza\\Form1.cs",
+              "ToolTip": "C:\\Users\\90553\\Desktop\\G\u00F6rsel Programlama\\pizza\\pizza\\Form1.cs",
+              "RelativeToolTip": "pizza\\Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAewB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:28:13.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90553\\Desktop\\G\u00F6rsel Programlama\\pizza\\pizza\\Form1.cs",
+              "RelativeDocumentMoniker": "pizza\\Form1.cs",
+              "ToolTip": "C:\\Users\\90553\\Desktop\\G\u00F6rsel Programlama\\pizza\\pizza\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "pizza\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:04:56.826Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
